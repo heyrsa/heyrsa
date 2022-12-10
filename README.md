@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @heyrsa 
+- 👀 I’m interested in software and programming
+- 🌱 I’m currently learning c#
